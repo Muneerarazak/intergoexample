@@ -28,6 +28,7 @@ public class HIWELCOME {
 			 String password=p.getProperty("pwd");
 			 
 			driver.get(Url);
+		System.out.println("hello dear");
 			
 			
 			
