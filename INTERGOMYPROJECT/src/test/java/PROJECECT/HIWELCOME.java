@@ -29,6 +29,9 @@ public class HIWELCOME {
 			 
 			driver.get(Url);
 		System.out.println("hello dear");
+		System.out.println("bye bye");
+
+		
 			
 			
 			
